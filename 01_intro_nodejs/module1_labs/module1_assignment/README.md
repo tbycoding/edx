@@ -14,7 +14,7 @@ To submit the assignment for feedback, put all the program files into GitHub and
 In addition to providing the GitHub link, please also answer the following questions about your project:
 
 1. Walk us through the design of your project. Why did you design your project the way you did? What difficulties did you overcome?
-    * The project is designed to simply fulfill the requirements using the csvtojson module and is written based on the api documentation. The only thing that was left to consider was the spacings of the json format.
+    * The project is designed to simply fulfill the requirements using the csvtojson module and is written based on the api documentation. The only problem was the spacings of the json format, which was incorrect when using "\t" as a space parameter.
 
 2. How did you test your project to verify that it works? 
     * I ran the project in node and received the correct json file. This file is located above: customer-data.json.
@@ -24,7 +24,7 @@ In addition to providing the GitHub link, please also answer the following quest
 
 \
 **Please Note**\
-If you would like to download individual labs, it may be easiest to use svn:
+If you need to download individual labs, it may be easiest to use svn:
 
 `svn checkout <url> <path>`
 
