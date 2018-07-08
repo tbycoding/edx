@@ -17,7 +17,7 @@ In addition to providing the GitHub link, please also answer the following quest
     * The project is designed to simply fulfill the requirements using the csvtojson module and is written based on the api documentation. The only problem was the spacings of the json format, which was incorrect when using "\t" as a space parameter.
 
 2. How did you test your project to verify that it works? 
-    * I ran the project in node and received the correct json file. This file is located above: customer-data.json.
+    * Ran a diff of the customer-data-solution.json file provided in the course and the customer-data.json file produced by the program.
 
 3. Let us know if anything doesn't work as intended so your reviewer will know ahead of time.
     * None. Please let me know if you see any problems or have any suggestions.
