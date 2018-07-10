@@ -1,0 +1,68 @@
+Chapter 1: Introduction
+
+1. Welcome!
+2. Grading and Logistics
+3. Are you Behind a Firewall?
+4. Connecting to MongoDB Using Compass
+5. Databases, Collections, and Documents
+6. Exploring Datasets in Compass
+7. Lab 1.1: INstall Compass and Connect Lab
+8. Documents: Scalar value Types
+9. MongoDB Documents: Fields with Documents as Values
+10. MongoDB Documents: Fields with Arrays as Values
+11. Lab 1.2: Determine the Value Type, Part 1
+12. Lab 1.3: Determine the Value Type, Part 2
+13. Lab 1.4: Determine the Value Type, Part 3
+14. MongoDB Documents: Geospatial Data
+15. Filtering Collections with Queries
+16. Lab 1.5: Scavenger Hunt, Part 1
+17. Lab 1.6: Scavenger Hunt, Part 2
+18. Geospatial Queries
+19. Lab 1.7: Scavenger Hunt, Part 3
+20. Understanding JSON
+
+
+Chapter 2: The MongoDB Query Language + Atlas
+
+1. Introduction to CRUD
+2. Installing the mongo Shell (Windows)
+3. Installig the mongo Shell (OSX / Linux)
+4. Connecting to Our Class Atlas Cluster form the mongo Shell
+5. Creating an Atlas Sandbox Cluster
+6. Lab 2.0: Create an Atlas Sandbox Cluster (Ungraded)
+7. Connecting to Your Sandbox Cluster from the mongo Shell
+8. Loading Data into Your Sandbox Cluster
+9. Connecting to Your Sandbox Cluster from Compass
+10. Lab 2.1: How Many Comedies?
+11. Creating Documents: insertOne()
+12. Creating Documents: insertMany()
+13. Lab 2.2: How Many Inserted?
+14. Reading Documents: Scalar Fields
+15. Lab 2.3: Queries on Scalar Fields
+16. Reading Documents: Array Fields
+17. Lab 2.4: Queries on Array Fields, Part 1
+18. Lab 2.5: Queries on Array Fields, Part 2
+19. Cursors
+20. Projections
+21. Updating Documents: updateOne()
+22. Update Operators
+23. Updating Dcouments: updateMany()
+24. Upserts
+25. Updating Documents: replaceOne()
+26. Lab 2.6: Update Operators
+27. Deleting Documents
+
+
+Chapter 3: Deeper Dive on the MongoDB Query Language
+
+1. Introduction to Query Operators
+2. Comparison Operators
+3. Element Operators
+4. Logical Operators
+5. Array Operators: $all
+6. Array Operators: $size
+7. Array Operators: $elemMatch
+8. $regex Operator
+9. Challenge Problem: Single Value in an Array of Integers
+
+Final Exam

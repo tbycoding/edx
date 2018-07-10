@@ -1,0 +1,45 @@
+Module 0: Introduction
+
+1. Welcome
+2. Course Outline
+3. Grading and Due Dates
+4. How to Navigate through the Course
+5. Course Forums
+6. Module 0 Lab
+7. Pre-Course Survey
+
+
+Module 1: JSX and React Components
+
+1. Module 1 Intro
+2. What is ReactJS
+3. Rendering Elements
+4. JSX
+5. Functional Components
+6. Composition
+7. Conditional Rendering
+8. Module 1 Tutorial
+9. Module 1 Lab
+10. Module 1 Assessment
+
+
+Module 2: State, Life Cycle, and Event Handlers
+
+1. Module 2 Intro
+2. Class Components
+3. State
+4. Life Cycle Methods
+5. Event Handlers
+6. Lifting State Up
+7. Module 2 Tutorial
+8. Module 2 Lab
+9. Module 2 Assessment
+
+
+Module 3: Lists and Forms
+
+1. Module 3 Lab
+2. Module 3 Assessment
+3. Module 4: Final Assessment
+4. Final Assessment
+5. Post-Course Survey
