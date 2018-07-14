@@ -25,7 +25,8 @@ Setting up Node.js projects, importing modules using npm, and Node core modules 
 
 ### Module 2:
 Introduction to Express framework to set up a web server, API routing, middleware, and URL parameters.\
-**Tutorial Lab:** REST API for a blog using Express.
+**Tutorial Lab:** REST API with Express.\
+**Assignment Lab:** RESTful Blog API.
 
 ### Module 3:
 Introduction to setting up a MongoDB database and connecting it to a Node.js server.\

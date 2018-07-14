@@ -1,3 +1,23 @@
+const data = {
+  "Type": ["All", "Cars", "Trucks", "Convertibles"],
+  "Cars": [
+    {"Year": 2013, "Model": "A", "Price": 32000},
+    {"Year": 2011, "Model": "B", "Price": 4400},
+    {"Year": 2016, "Model": "B", "Price": 15500}
+  ],
+  "Trucks": [
+    {"Year": 2014, "Model": "D", "Price": 18000},
+    {"Year": 2013, "Model": "E", "Price": 5200}
+  ],
+  "Convertibles": [
+    {"Year": 2009, "Model": "F", "Price": 2000},
+    {"Year": 2010, "Model": "G", "Price": 6000},
+    {"Year": 2012, "Model": "H", "Price": 12500},
+    {"Year": 2017, "Model": "M", "Price": 50000}
+  ]
+};
+
+
 function TransportationCompany(props) {
   return (
     <div>
@@ -15,7 +35,6 @@ function SelectType(props) {
 }
 
 function VehicleOptions(props) {
-  // let selectType = props.items.map(
   return (
     <div>
       New Only&nbsp;
@@ -31,8 +50,7 @@ function VehicleOptions(props) {
   )
 }
 
-function VehicleInfo(props) {
-    
+function VehicleInfo(props) { 
     return (
     <div>
       <ul>
@@ -93,42 +111,6 @@ function TransportationApp(props) {
   )
 }
 
-const data = {
-  "Type": ["All", "Cars", "Trucks", "Convertibles"],
-  "Cars": [
-    {
-      "Year": 2013, "Model": "A", "Price": 32000
-    },
-    {
-      "Year": 2011, "Model": "B", "Price": 4400
-    },
-    {
-      "Year": 2016, "Model": "B", "Price": 15500
-    }
-  ],
-  "Trucks": [
-    {
-      "Year": 2014, "Model": "D", "Price": 18000
-    },
-    {
-      "Year": 2013, "Model": "E", "Price": 5200
-    }
-  ],
-  "Convertibles": [
-    {
-      "Year": 2009, "Model": "F", "Price": 2000
-    },
-    {
-      "Year": 2010, "Model": "G", "Price": 6000
-    },
-    {
-      "Year": 2012, "Model": "H", "Price": 12500
-    },
-    {
-      "Year": 2017, "Model": "M", "Price": 50000
-    }
-  ]
-};
 
 ReactDOM.render(
   <TransportationApp />,
